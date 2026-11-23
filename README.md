@@ -1,4 +1,4 @@
-# TAVARDT Vibe Coding Security & AI Architecture Auditor (Canada)
+# Vibe Coding Security & AI Architecture Auditor
 
 Corporate defensive architecture guide, credential leakage mitigation, and deterministic CLI auditing utility for applications built with AI development tools (Vibe Coding).
 
@@ -53,6 +53,6 @@ Defensive architecture and cybersecurity controls aligned with PIPEDA, CCCS ITSG
 
 * **Live Hub:** [https://tavardt-canada.github.io/vibe-coding-security-scanner/](https://tavardt-canada.github.io/vibe-coding-security-scanner/)
 * **TAVARDT Portal:** [https://ag.tavardt.com/ca/](https://ag.tavardt.com/ca/)
-* **Cybersecurity Tools:** [https://tools.tavardt.com/ca/](https://tools.tavardt.com/ca/)
+* **Tools:** [https://tools.tavardt.com/ca/](https://tools.tavardt.com/ca/)
 
 &copy; 2026 TAVARDT. All rights reserved.
