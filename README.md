@@ -57,10 +57,8 @@ Defensive architecture and cybersecurity controls aligned with PIPEDA, CCCS ITSG
 ## Official Links & Resources
 
 * **Live Hub:** [https://tavardt-canada.github.io/vibe-coding-security-scanner/](https://tavardt-canada.github.io/vibe-coding-security-scanner/)
-* **TAVARDT Portal:** [Portal Institucional](https://ag.tavardt.com/ca/)
-* **Tools:** [Central de Ferramentas](https://tools.tavardt.com/ca/)
-
-&copy; 2026 TAVARDT. All rights reserved.
+* **TAVARDT Portal:** [Institutional Portal](https://ag.tavardt.com/ca/)
+* **Tools:** [Tools Hub](https://tools.tavardt.com/ca/)
 
 ***
 
